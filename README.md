@@ -7,4 +7,4 @@
 + Select Amazon S3 and select the box for the S3 bucket you created.
 + Enter the link to your "manifest.json" file and connect to Quicksight.
 + Select "interactive sheet" to start creating visualizations.
-+ Create Visualizations & experiment with different types of graphs
++ Create visualizations & experiment with different types of graphs
